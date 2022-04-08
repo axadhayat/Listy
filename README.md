@@ -1,6 +1,8 @@
 # A sample swift project 
 App shows a simple list from remote records and syncs them for offline use. 
 
+It has
+
 - Images caching
 - MVVM + RX (Shifiting to combine)
 - Coredata
