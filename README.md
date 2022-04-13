@@ -3,6 +3,6 @@ App shows a simple list from remote records and syncs them for offline use. App 
 - Images caching
 - MVVM + RX (Moving to combine)
 - Coredata
-- Repository Design Pattern
 - Unit test
-- Design patterns  
+- Design patterns
+  - Repository
